@@ -3,7 +3,7 @@ from PIL import ImageTk, Image
 import requests
 
 url = "http://api.openweathermap.org/data/2.5/weather"
-api_key = "913a9d018060805a15ab47e2bce323f0"
+api_key = "your-api-key"
 icon_url = "http://openweathermap.org/img/wn/{}@2x.png"
 
 
